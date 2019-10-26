@@ -94,3 +94,6 @@ Client side files:
  
 # GibHub Repository
 https://github.com/dcalara/right-to-healthcare.git
+
+herokuapp link
+http://healthcare-rights.herokuapp.com/
