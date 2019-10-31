@@ -52,6 +52,8 @@
  
  ![](Proposal/Images/birth_death_rate_USA.png)
  
+ ![](Proposal/Images/fertility_infant_morthality_ethiopia.png)
+ 
  ![](Proposal/Images/birth_death_rate_Russia.png)
  
  # App Design
