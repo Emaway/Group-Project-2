@@ -1,4 +1,4 @@
-# Project Proposal - The Right to Health Care for All
+# The Right to Health Care for All
 
 # Inspiration
   Health care is a fundamental human right. However, government policies do not reflect that. People in the United States are not guaranteed basic human needs such as clean water, food, housing, sanitation, due to our current health care system. Other countries around the world provide univeral health care for their population. How do the health care systems in other countries compare to the health care system in the United States?  How do differences in health care policies affect health outcomes?
@@ -43,14 +43,16 @@
 
 
 # Visuals
- - Timelapse graphs
- ![alt tag](https://github.com/dcalara/right-to-healthcare/blob/master/Proposal/comparison_over_time.PNG?raw=true)
- - Comparisions between countries
-![alt tag](https://github.com/dcalara/right-to-healthcare/blob/master/Proposal/example-1.PNG?raw=true)
- - Mapping
- ![alt tag](https://github.com/dcalara/right-to-healthcare/blob/master/Proposal/map_with_slider.PNG?raw=true)
- - Website Sketch
- ![alt tag](https://github.com/dcalara/right-to-healthcare/blob/master/Proposal/basic_site_plan.jpg)
+
+ ![](https://github.com/Emaway/Group-Project-2/blob/master/Proposal/Images/health_expenditure_2016.PNG)
+
+ ![](Proposal/Images/Infant%20Mortality%20Rate%20Birth%20Rate.png)
+
+ ![](Proposal/Images/infant_mortality_birth_rate_brazil.PNG)
+ 
+ ![](Proposal/Images/birth_death_rate_USA.png)
+ 
+ ![](Proposal/Images/birth_death_rate_Russia.png)
  
  # App Design
 
