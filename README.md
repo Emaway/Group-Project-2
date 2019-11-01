@@ -41,20 +41,19 @@
 - Corruption Index
 - Death Rate
 
-
 # Visuals
 
- ![](https://github.com/Emaway/Group-Project-2/blob/master/Proposal/Images/health_expenditure_2016.PNG)
+ ![](Images/health_expenditure_2016.PNG)
 
- ![](Proposal/Images/Infant%20Mortality%20Rate%20Birth%20Rate.png)
+ ![](Images/Infant%20Mortality%20Rate%20Birth%20Rate.png)
 
- ![](Proposal/Images/infant_mortality_birth_rate_brazil.PNG)
- 
- ![](Proposal/Images/birth_death_rate_USA.png)
- 
- ![](Proposal/Images/fertility_infant_morthality_ethiopia.png)
- 
- ![](Proposal/Images/birth_death_rate_Russia.png)
+ ![](Images/infant_mortality_birth_rate_brazil.PNG)
+
+ ![](Images/fertility_infant_morthality_ethiopia.png)
+
+ ![](Images/birth_death_rate_USA.png)
+
+ ![](Images/birth_death_rate_Russia.png)
  
  # App Design
 
